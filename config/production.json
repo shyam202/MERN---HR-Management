@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Sup123:Sup123@technetworker.4jbax.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "b722703231eb6c851fcd",
+    "githubSecret": "630ac01a0e9534cb489e3d1e3d397508a0125b68"
+}
